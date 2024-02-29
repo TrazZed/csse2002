@@ -1,5 +1,7 @@
 Two Projects made for UQ's CSSE2002 Semester 1 2023.
 
+DISCLAIMER: Not all code provided was implemented by me, some was provided by UQ
+
 Project 1:
 Modelling Space Journeys of the Leaden Matter
 
